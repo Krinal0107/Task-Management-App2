@@ -1,11 +1,11 @@
-# Welcome to Ofto Task Manager
+# Welcome to Simplify Task Manager
 
 Vercel app - https://task-managemen-app2.vercel.app/
 
-Greetings and welcome to Ofto Task Manager, your indispensable ally in conquering tasks and optimizing productivity! Meticulously crafted to streamline your life, Ofto Task Manager transcends the ordinary task manager – it's your personal productivity powerhouse. In today's dynamic world, maintaining order is paramount to achieving success. With Ofto Task Manager, bid farewell to chaos and embrace a structured approach to your daily pursuits. Whether you're a seasoned professional, a student juggling numerous deadlines, or someone aspiring to lead a more organized lifestyle, our application is tailored to cater to your unique requirements.
+Greetings and welcome to Simplify Task Manager, your indispensable ally in conquering tasks and optimizing productivity! Meticulously crafted to streamline your life, Simplify Task Manager transcends the ordinary task manager – it's your personal productivity powerhouse. In today's dynamic world, maintaining order is paramount to achieving success. With Simplify Task Manager, bid farewell to chaos and embrace a structured approach to your daily pursuits. Whether you're a seasoned professional, a student juggling numerous deadlines, or someone aspiring to lead a more organized lifestyle, our application is tailored to cater to your unique requirements.
 
 ## Getting Started
-Embark on your journey with Ofto Task Manager by following these steps:
+Embark on your journey with Simplify Task Manager by following these steps:
 
 1. Registration:
 
@@ -25,7 +25,7 @@ Embark on your journey with Ofto Task Manager by following these steps:
 
 5. Profile Management:
 
- - Explore your profile section, offering options for profile viewing, editing, and deletion. Editing enables you to modify your username and email, while deletion ensures the removal of your Ofto Task Manager account.
+ - Explore your profile section, offering options for profile viewing, editing, and deletion. Editing enables you to modify your username and email, while deletion ensures the removal of your Simplify Task Manager account.
 
 6. CSV export /import file  feature added :
 

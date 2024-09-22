@@ -5,7 +5,12 @@ const Footer = () => {
     const currentYear = new Date().getFullYear();
 
     return (
-        <footer>Copyright &copy; {currentYear} | All Rights Reserved</footer>
+        <footer>
+            &copy; {currentYear} | 
+            <a href="https://github.com/Krinal0107/Task-Managemen-App2" target="_blank" rel="noopener noreferrer">
+                View on GitHub
+            </a>
+        </footer>
     );
 }
 

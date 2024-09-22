@@ -36,8 +36,8 @@ const Navbar = () => {
     return (
         <nav>
             <div className="logo">
-                <img src={logo} alt="Ofto Task Manager" />
-                <label>OTM</label>
+                <img src={logo} alt="Simplify Task Manager" />
+                <label>Simplify</label>
             </div>
             <div>
                 <ul className={toggleMenu ? 'show' : 'hide'}>
